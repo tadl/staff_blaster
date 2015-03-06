@@ -1,0 +1,11 @@
+== Staff Blaster
+
+This app will:
+
+* Allow admins to dial in and record messages alerting staff of closings or delays 
+
+In the future:
+
+* Alert for open shifts
+
+* Outage and incident alerts for admins

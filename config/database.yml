@@ -1,0 +1,15 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  pool: 5
+
+development:
+  <<: *default
+  database: staff_blaster-development
+  username: action
+
+test:
+  <<: *default
+  database: staff_blaster-test
+  username: action
